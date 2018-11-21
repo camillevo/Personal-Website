@@ -1,2 +1,2 @@
-# practice
-this is to learn more about github
+# Personal Website
+Repository for my personal website, camillevo.com
